@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D076-8618
+
+ Directory of C:\Users\91852\Desktop\MyProject
+
+01-09-2021  11:31    <DIR>          .
+01-09-2021  11:31    <DIR>          ..
+01-09-2021  11:31                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  939,922,432,000 bytes free
