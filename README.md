@@ -1,2 +1,2 @@
 # RepositoryDemo
-Creating this Repository for Learning Purpose only.
+Creating this Repository for Git Learning Purpose only.
